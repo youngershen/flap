@@ -1,3 +1,3 @@
 #flap
 
-a cocos2dx copycat game of flappy bird, using cocos2ds 3.5.
+a cocos2dx copycat game of flappy bird, using cocos2ds 3.5. and it is study code.
